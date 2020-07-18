@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->i
-- 🤔 寻求突破. 
+-->
+
+#### 你看到我了.
+#### 希望你今天有一个好心情.
+#### 生活不易, 不要为难自己.
