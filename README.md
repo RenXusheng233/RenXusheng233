@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 你看到我了
-- 但是这里并没有什么
+- 写代码很开心
 - 生活不易, 不要为难自己
 - 希望你今天有一个好心情
