@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 你看到我了
-- 写代码很开心
-- 生活不易, 不要为难自己
-- 希望你今天有一个好心情
+- - 🌱 I’m currently learning React and nest.
